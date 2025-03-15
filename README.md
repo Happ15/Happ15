@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @Happ15
-- 👀 I’m interested in c#
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in Go
 - 📫 How to reach me kashemirov1980@gmail.com
 
 <!---
